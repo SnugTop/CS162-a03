@@ -1,0 +1,12 @@
+Pottery;Mimosa Studio;Easy;3;2
+Mini Golf;Glowing Greens;Easy;6;3
+Baseball;Irvine Park;Intermediate;4;0
+Cake Decorating;Petnuia's Pasties ;Easy;10;1
+Zoo;Oregon Zoo;Easy;5;4
+Hockey;Portland Ice Rink;Difficult;8;0
+Kiteboarding ;Columbia Gorge;Intermediate;10;0
+Road Trip;Oregon Coast;Easy;10;4
+Skateboarding;Burnside Skatepark;Difficult;10;0
+Tacos;La Serenitas;Easy;10;1
+Snowshoing;Lolo Pass;Intermediate;8;0
+Alpine Skiing;Mt Hood Meadows;Difficult;10;0
